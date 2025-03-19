@@ -1,0 +1,8 @@
+train: C:/thanu/tancam/dataset/train/images
+val: C:/thanu/tancam/dataset/valid/images
+
+nc: 9 
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I']
+
+
+
